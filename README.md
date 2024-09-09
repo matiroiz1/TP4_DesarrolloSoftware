@@ -66,5 +66,8 @@ creado y guardado en nuestra base de datos:
 Luego accedemos al archivo persistence.xml y modificamos el "create" por un "update"
 
 Finalmente debemos:
+
 Si queremos hacer una modificación de la tabla factura descomentamos las líneas (114-115-116)
+
 Si queremos hacer una elimiación de la tabla factura descomentamos las líneas (119-120)
+
